@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Flavio Mata</h1>
 <h3 align="center">A passionate frontend and game developer from Costa Rica. I graduated from University of Costa Rican in Informatics and Multimedia Technology in 2021.</h3>
 
 - 🔭 I’m currently working on **personal projects.**
