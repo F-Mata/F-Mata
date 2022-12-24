@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Java, C, C++ or design concepts**
 
-- 📄 Know about my experiences +2 years of work experience as a FullStack Developer.
+- 📄 Know about my experiences **+2 years of work experience as a FullStack Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
