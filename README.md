@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Flavio Mata</h1>
-<h3 align="center">I'm a passionate fullstack developer from Costa Rica. I graduated from the University of Costa Rica in 2021 with a degree in Informatics and Multimedia Technology.</h3>
+# Hi 👋, I'm Flavio Mata  
 
-- 🔭 I’m currently working on **personal projects** to sharpen my skills.
+I'm a passionate **Full-Stack Developer** from Costa Rica. I graduated from the **University of Costa Rica** in 2021 with a degree in **Informatics and Multimedia Technology**.  
 
-- 🌱 I’m currently learning **ReactJs, .Dot Net Core, and other web frameworks.**
+- 🔭 I’m currently working on **personal projects** to enhance my skills and explore new technologies.  
+- 🌱 I’m learning **React.js**, **.NET Core**, and other modern **web frameworks**.  
+- 👯 I’m looking to collaborate on **frontend development** projects.  
+- 🤝 I’d love to contribute to **React.js projects** or get involved in **open-source initiatives**.  
+- 💬 Ask me about **JavaScript** and **C#**, or let's discuss exciting development ideas!  
+- 📄 I have **4+ years of experience** as a **Full-Stack Developer**, building efficient, scalable, and user-friendly applications.  
 
-- 👯 I’m looking to collaborate on **frontend development**
+---
 
-- 🤝  I’d love to get involved in **ReactJs projects** or contribute to open-source work
+Feel free to connect and collaborate!
 
-- 💬 Ask me about **JavaScript, and  C#**
-
-- 📄 Know about my experiences **+4 years of work experience as a FullStack Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
